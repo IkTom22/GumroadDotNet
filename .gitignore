@@ -1,0 +1,62 @@
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# NPM packages
+node_modules/
+lib/
+jspm_packages/
+typings/
+
+# Environment variables
+.env
+.env.test
+
+# Log files
+*.log
+
+# Publish Web Output
+*.Publish.xml
+*.Publish.state
+*.PublishSettings
+
+# DNX
+project.lock.json
+artifacts/
+project.fragment.lock.json
+project.json.lock
+
+# Rider
+.idea/
+
+# Certificate files
+*.pfx
+*.p12
+
+# Docfx
+_site/
+
+
+
+
