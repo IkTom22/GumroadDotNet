@@ -8,6 +8,5 @@ public class GumroadDotNetContext : DbContext
             : base(options)
         {
         }
-
         public DbSet<GumroadDotNet.Models.Product> Product { get; set; } = default!;
 }
